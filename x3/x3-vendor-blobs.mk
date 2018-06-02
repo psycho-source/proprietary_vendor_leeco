@@ -20,5 +20,4 @@ PRODUCT_PACKAGES += \
 	LetvRemoteControl_WW \
 	UEIQuicksetSDKLeTV \
 	LocationEM2 \
-        Footej \
 	MTKThermalManager
